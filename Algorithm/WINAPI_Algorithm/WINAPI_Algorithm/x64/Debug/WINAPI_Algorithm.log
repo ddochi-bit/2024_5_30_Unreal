@@ -1,0 +1,89 @@
+﻿  pch.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\pch.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\Line.h(3,7): warning C4099: 'HResult': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Program\Program.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  PlayerBar.cpp
+  PlayerBall.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Alkanoid\PlayerBall.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  AlkanoidScene.cpp
+  Maze.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Maze.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Maze.cpp(125,13): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Maze.cpp(125,21): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Block.cpp
+  Player.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Player.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Player.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Player.cpp(67,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Player.cpp(67,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Player.cpp(74,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Player.cpp(74,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MazeScene.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Maze\Player.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\MazeScene.cpp(28,59): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\MazeScene.cpp(28,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Objects\Bullet.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Barrel.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+  Cannon.cpp
+  CannonScene.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\CannonScene.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\CannonScene.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Collider.cpp
+  Line.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\Line.cpp(27,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\Line.cpp(27,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\Line.cpp(28,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\Line.cpp(28,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Line2Scene.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+  LineScene.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\LineScene.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\LineScene.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CollisionScene.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\CollisionScene.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+  CircleCollider.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\CircleCollider.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\CircleCollider.cpp(22,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\CircleCollider.cpp(23,10): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\CircleCollider.cpp(24,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\CircleCollider.cpp(25,13): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RectCollider.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\RectCollider.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\RectCollider.cpp(22,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\RectCollider.cpp(23,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\RectCollider.cpp(24,10): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Framework\RectCollider.cpp(25,13): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  PaintScene.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\PaintScene.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Program.cpp
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\CollisionScene.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\LineScene.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Scene\CannonScene.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\WINAPI_Algorithm\Program\Program.cpp(16,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Vector2.cpp
+  WINAPI_Algorithm.cpp
+  코드를 생성하고 있습니다...
+  WINAPI_Algorithm.vcxproj -> C:\새 폴더\2024_5_30_Unreal\Algorithm\WINAPI_Algorithm\x64\Debug\WINAPI_Algorithm.exe

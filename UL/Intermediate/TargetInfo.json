@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UL",
+			"Path": "..\\Source\\UL.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ULEditor",
+			"Path": "..\\Source\\ULEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

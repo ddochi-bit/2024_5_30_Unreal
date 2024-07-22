@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UL.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\새 폴더\2024_5_30_Unreal\UL\Intermediate\Build\Win64\x64\ULEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\새 폴더\2024_5_30_Unreal\UL\Intermediate\Build\Win64\x64\UnrealEditor\Development\UL\UL.cpp.obj"
+"C:\새 폴더\2024_5_30_Unreal\UL\Intermediate\Build\Win64\x64\UnrealEditor\Development\UL\Default.rc2.res"
+/OUT:"C:\새 폴더\2024_5_30_Unreal\UL\Intermediate\Build\Win64\x64\UnrealEditor\Development\UL\UnrealEditor-UL.lib"

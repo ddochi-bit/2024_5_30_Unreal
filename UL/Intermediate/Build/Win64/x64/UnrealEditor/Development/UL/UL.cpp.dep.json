@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\new\\2024_5_30_unreal\\ul\\source\\ul\\ul.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\new\\2024_5_30_unreal\\ul\\intermediate\\build\\win64\\x64\\uleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\new\\2024_5_30_unreal\\ul\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ul\\definitions.ul.h",
+            "c:\\new\\2024_5_30_unreal\\ul\\source\\ul\\ul.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
